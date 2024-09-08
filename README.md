@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Madan Gopal Jha</h1>
 <h3 align="center">A Full Stack Web Developer</h3>
+</p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## About Me
@@ -109,7 +110,3 @@ As a passionate and dedicated learner, I possess a robust skill set in web devel
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
   </a> 
 </p>
-
-
-
-
