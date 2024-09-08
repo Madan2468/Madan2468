@@ -28,24 +28,6 @@ As a passionate and dedicated learner, I possess a robust skill set in web devel
   <img src="https://github-profile-trophy.vercel.app/?username=madan2468&theme=radical" alt="GitHub Trophies" />
 </p>
 
-## Recent Projects
-<p align="center">
-  <a href="https://github.com/madan2468/project1">
-    <img src="https://img.shields.io/badge/Project%201-%232ecc71?style=for-the-badge" alt="Project 1" />
-  </a>
-  <a href="https://github.com/madan2468/project2">
-    <img src="https://img.shields.io/badge/Project%202-%23e74c3c?style=for-the-badge" alt="Project 2" />
-  </a>
-  <a href="https://github.com/madan2468/project3">
-    <img src="https://img.shields.io/badge/Project%203-%239b59b6?style=for-the-badge" alt="Project 3" />
-  </a>
-</p>
-
-## Fun Facts
-- 🎮 I love playing strategy games in my free time.
-- 🚀 I’ve launched two side projects that help new developers learn web development.
-- 🎥 I’m also into cinematography and have directed short films.
-
 - 📫 How to reach me **madanjha2468@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
