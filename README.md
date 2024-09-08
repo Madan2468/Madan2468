@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Madan Gopal Jha</h1>
 <h3 align="center">A Full Stack Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -9,6 +8,11 @@ As a passionate and dedicated learner, I possess a robust skill set in web devel
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=madan2468&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
   <img src="https://img.shields.io/github/followers/madan2468?label=Followers&style=social" alt="GitHub Followers" />
+</p>
+
+## Dynamic Quote of the Day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dynamic Quote" />
 </p>
 
 ## GitHub Stats
@@ -23,6 +27,24 @@ As a passionate and dedicated learner, I possess a robust skill set in web devel
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=madan2468&theme=radical" alt="GitHub Trophies" />
 </p>
+
+## Recent Projects
+<p align="center">
+  <a href="https://github.com/madan2468/project1">
+    <img src="https://img.shields.io/badge/Project%201-%232ecc71?style=for-the-badge" alt="Project 1" />
+  </a>
+  <a href="https://github.com/madan2468/project2">
+    <img src="https://img.shields.io/badge/Project%202-%23e74c3c?style=for-the-badge" alt="Project 2" />
+  </a>
+  <a href="https://github.com/madan2468/project3">
+    <img src="https://img.shields.io/badge/Project%203-%239b59b6?style=for-the-badge" alt="Project 3" />
+  </a>
+</p>
+
+## Fun Facts
+- 🎮 I love playing strategy games in my free time.
+- 🚀 I’ve launched two side projects that help new developers learn web development.
+- 🎥 I’m also into cinematography and have directed short films.
 
 - 📫 How to reach me **madanjha2468@gmail.com**
 
@@ -102,4 +124,10 @@ As a passionate and dedicated learner, I possess a robust skill set in web devel
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
   </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React"
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
+  </a> 
+</p>
+
+
+
+
