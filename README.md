@@ -29,6 +29,10 @@ As a passionate and dedicated learner, I possess a robust skill set in web devel
   <img src="https://github-profile-trophy.vercel.app/?username=madan2468&theme=radical" alt="GitHub Trophies" />
 </p>
 
+
+ ## 🏆 Holopin Badges
+[![An image of @madan2468's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/madan2468)](https://holopin.io/@madan2468)
+ 
 - 📫 How to reach me **madanjha2468@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -37,6 +41,8 @@ As a passionate and dedicated learner, I possess a robust skill set in web devel
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
